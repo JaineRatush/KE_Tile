@@ -1,9 +1,9 @@
 # Kinetic Energy Tile -[Apr 2025]  
 ## Purpose:  
 - Design and build a tile that can generate electricity from a human footstep within 2 weeks  
-- Demonstrate an application of mechanics concepts for my EOY Physics I presentation    
-
-[![KE Tile](Photo/KE Tile.png)](https://www.youtube.com/watch?v=fjJjNncEHaI)  
+- Demonstrate an application of mechanics concepts for my EOY Physics I presentation
+   
+[![KE Tile](Photo/KE_Tile.png)](https://www.youtube.com/watch?v=fjJjNncEHaI)  
 Video^^: (https://www.youtube.com/watch?v=fjJjNncEHaI)  
 
 ## Mechanics Concepts Chosen: 
