@@ -14,7 +14,7 @@ Video^^: (https://www.youtube.com/watch?v=fjJjNncEHaI)
 - The restorative force of the spring does negative Work, allowing electricity to be generated while the user steps on and off
 - A gear train was considered for this project(to increase output) however, due to the time constraint pulleys were chosen instead 
 
-Link to calculations/documentation:  
+Link to calculations/documentation:  [!(Photo/KE_Tile_FinalProject.pdf)]
 
 ## Prototyping:  
 - A rough 3D model was created using Onshape 
