@@ -20,5 +20,4 @@ Video^^: (https://www.youtube.com/watch?v=fjJjNncEHaI)
 - Designed cup-mounts for each spring, a Rack & Pinion, and pulleys that tight-fit snapped into gears
 - Laser cut and 3D printed mechanical subsystems  
 - Used a Drill Press to create fastener holes in the wooden platform bases and metal supports
-
-Link to CAD models:   
+  [Onshape Models](CAD)   
