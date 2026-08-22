@@ -12,7 +12,7 @@ Video^^: (https://www.youtube.com/watch?v=fjJjNncEHaI)
 - Since torque is dependent on radius, changing pulley diameter is similar to using gears. 
 - The spring coeffecient helps properly distribute weight under the foot
 - The restorative force of the spring does negative Work, allowing electricity to be generated while the user steps on and off
-- A gear train was considered for this project(to increase output) however, due to the time constraint pulleys were chosen instead 
+- A gear train was considered for this project(to increase output) however, due to the time constraint pulleys were chosen instead   
 [View calculations/documentation](Photo/KE_Tile_FinalProject.pdf)
 
 ## Prototyping:  
