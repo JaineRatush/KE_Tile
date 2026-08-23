@@ -24,5 +24,9 @@ Video^^: (https://www.youtube.com/watch?v=fjJjNncEHaI)
   [Onshape Models](CAD)   
 ## Flaws & Improvements: 
 - The springs were designed to sit on cups, after I drew inspiration from car suspension. However, this created instability. Unlike a car, the motion of the KE tile had to be constrained in X and Z.
-- A belt should've been used instead of rubberbands, as the energy from the pinion pulley was partially transferred to the rubberband instead of the generator gear. Additionally, constant linear velocity does not apply to elastics.   
-- To make a reasonable amount of electricity, a compound gear train can be added.
+- A belt should've been used instead of rubberbands, as the energy from the pinion pulley was partially transferred to the rubberband instead of the generator gear. Additionally, constant linear velocity does not apply to elastics.
+If I were to make a KE Tile 2.0 I'd consider:  
+- Adding a compound gear train can be added.  
+- Using Piezoelectric crystals instead of a purely mechanical design  
+- Adding capacitors  
+- Adding a circuit capable of charging my phone   
