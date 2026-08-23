@@ -1,4 +1,5 @@
 # Kinetic Energy Tile -[Apr 2025]  
+A tile that provides limited electricity from the work done by a human footstep! 
 ## Purpose:  
 - Design and build a tile that can generate electricity from a human footstep within 2 weeks  
 - Demonstrate an application of mechanics concepts for my EOY Physics I presentation
