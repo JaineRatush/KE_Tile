@@ -22,3 +22,7 @@ Video^^: (https://www.youtube.com/watch?v=fjJjNncEHaI)
 - Laser cut and 3D printed mechanical subsystems  
 - Used a Drill Press to create fastener holes in the wooden platform bases and metal supports
   [Onshape Models](CAD)   
+## Flaws & Improvements: 
+- The springs were designed to sit on cups, after I drew inspiration from car suspension. However, this created instability. Unlike a car, the motion of the KE tile had to be constrained in X and Z.
+- A belt should've been used instead of rubberbands, as the energy from the pinion pulley was partially transferred to the rubberband instead of the generator gear. Additionally, constant linear velocity does not apply to elastics.   
+- To make a reasonable amount of electricity, a compound gear train can be added.
